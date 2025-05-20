@@ -1,3 +1,15 @@
+// This script complements the dissertation titled
+// "LOW-COST PRESCRIPTIVE MAINTENANCE FOR THREE-PHASE MACHINES" – UFSJ.
+//
+// The work proposes a low-cost architecture for monitoring electric machines,
+// and introduces a new methodology for detecting low insulation faults.
+//
+// Note: This code implements MQTT communication with the ESP32,
+// as well as the use of the ADXL345 sensor operating in streaming mode.
+//
+// The script has been segmented into several blocks to improve readability.
+// Please pay close attention to the description of each block!
+
 // -------------------- ------------------------librarys----------------------------------------------------------------------------------------
 
 //library for using Wi-Fi
